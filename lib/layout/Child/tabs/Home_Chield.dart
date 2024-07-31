@@ -16,7 +16,7 @@ class CatigoryState extends State<Catigory> {
   List<String> image = [
     'assets/images/Young woman.png',
     'assets/images/Frame 1261154553.png',
-    'assets/images/Home.png',
+    'assets/images/Home2.png',
     'assets/images/Grosary.png'
   ];
   List<String> text = ['Shoping', 'Electrical', 'Pharmacy', 'Grocary'];
